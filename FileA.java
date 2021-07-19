@@ -4,4 +4,7 @@ public class FilaA {
 
 	public void close(){
 	}
+
+	public void open(){
+	}
 }
